@@ -31,10 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/laakshit-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559976/ea8ba611-8ed7-4edc-ace7-bcf5fb9709d7)
+![image](https://github.com/keerthanaguttha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742927/61457e94-7d0e-481c-a184-99e5251c1d1b)
 
 ### Output:
-![image](https://github.com/laakshit-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559976/d7a6e0ae-9e32-4296-8aa0-65dd2d30f9b3)
+![image](https://github.com/keerthanaguttha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742927/c648115b-5ed2-4d92-8dbc-2ca88f297099)
+
 
 ### Name: Guttha Keerthana
 ### Register Number: 212223240045
